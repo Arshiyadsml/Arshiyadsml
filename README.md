@@ -1,4 +1,9 @@
-## Hi there 👋
+# Everyday is a learning day
+# Welcome this is the landing page of my profile
+_Here I will be showcasing all the projects I will be doing now and in future_
+<ins>**Python Projects**</ins> 
+
+
 
 <!--
 **Arshiyadsml/Arshiyadsml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
