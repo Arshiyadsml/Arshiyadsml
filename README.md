@@ -8,7 +8,7 @@ _I am currently doing Data Science Bootcamp with HyperionDev_
 
 _Here I will be doing the projects to understand and apply the knowledge to land a job in IT_
 
-##Please continue watching my page as I will be adding and improving my work##
+**Please continue watching my page as I will be adding and improving my work**
 
 <!--
 **Arshiyadsml/Arshiyadsml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
