@@ -1,5 +1,5 @@
 # Everyday is a learning day!!!
-# Welcome this is the landing page of my profile
+# Welcome :smile: this is the landing page of my profile
 _Here I will be showcasing all the projects I will be doing now and in future_
 
 _I am currently doing Data Science Bootcamp with HyperionDev_
