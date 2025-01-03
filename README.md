@@ -4,7 +4,8 @@ _Here I will be showcasing all the projects I will be doing now and in future_
 
 <ins>**Python Projects**</ins> 
 
-
+_I am currently doing Data Science Bootcamp with HyperionDev_
+###Here I will be doing the projects to understand and apply the knowledge to land a job in IT###
 
 <!--
 **Arshiyadsml/Arshiyadsml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
